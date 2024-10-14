@@ -1,0 +1,17 @@
+git init
+git add .
+git commit -m "Login added on 14-10"
+git remote add origin https://github.com/midhun/myrepo.git
+git branch -m main
+git push origin main
+
+
+git checkout
+git reset
+git fetch
+git clone htppss://ssjd.dsshsh.git
+git pull origin main
+
+
+git push origin -f main
+
